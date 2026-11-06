@@ -1,0 +1,2 @@
+aeee4e7a983229488879b357d09826882ce9ee17253aca783c9934b080b5c298  build-0.7/Voidwake-0.7.exe
+cff4fdefa8d3348860bc241ed9eb86f96d31c2e6e7da8a304c890ec018115bf0  build-0.7/libvoxel.windows.template_release.x86_64.dll
